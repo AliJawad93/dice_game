@@ -1,0 +1,2 @@
+# dice_game
+I made this game when I was in second stage in college , and this game can be played by 2 players and each player has own character by chosen from menu and each time when player is move dice by set number ( zero ) will get number from ( 1 to 6 ) and this number will make character move and if the cube is full that mean is trap and this trap has 4 states , also this result who is win will be store in file
